@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
+// Nivel: Novato
 // Tema 1 - Cadastro das Cartas
 // Este código agora inclui a lógica para estados e cidades
 // Aluno: Igor Gomes
